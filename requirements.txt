@@ -1,8 +1,8 @@
-pip
-pandas
-streamlit
-plotly
-numpy
-gspread
-oauth2client
-pyOpenSSL
+pandas==2.0.3
+streamlit==1.28.0
+plotly==5.15.0
+numpy==1.24.4
+gspread==5.11.3
+google-auth==2.17.3
+google-auth-oauthlib==1.0.0
+google-auth-httplib2==0.1.0
